@@ -15,7 +15,7 @@
 ## 🚀 Установка
 1. Клонируйте проект:
 ```bash
-git clone https://github.com/valeria-kozlova/git-basic
+git clone https://github.com/valeria-kozlova/add-products-to-db
 ```
 2. Настройте chromedriver.
 3. Запустите тесты через Maven или IDE.
